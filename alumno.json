@@ -1,0 +1,59 @@
+[
+    {
+        "Nombre": "Guerrero Estrada Jose Fernando",
+        "Materias": [
+            {
+                "Nombre": "Contabilidad"
+            },
+            {
+                "Nombre": "Base de Datos"
+            },
+            {
+                "Nombre": "Desarrollo Web"
+            },
+            {
+                "Nombre": "Matem\u00e1ticas IV"
+            },
+            {
+                "Nombre": "Inteligencia Artificial"
+            }
+        ]
+    },
+    {
+        "Nombre": "Bautista Mejia Carlos Israel",
+        "Materias": [
+            {
+                "Nombre": "Matem\u00e1ticas IV"
+            },
+            {
+                "Nombre": "Desarrollo Web"
+            },
+            {
+                "Nombre": "Base de Datos"
+            },
+            {
+                "Nombre": "Contabilidad"
+            }
+        ]
+    },
+    {
+        "Nombre": "Galvez Maravilla Alejandro",
+        "Materias": [
+            {
+                "Nombre": "Inteligencia Artificial"
+            },
+            {
+                "Nombre": "Desarrollo Web"
+            },
+            {
+                "Nombre": "Programaci\u00f3n I"
+            },
+            {
+                "Nombre": "Matem\u00e1ticas IV"
+            },
+            {
+                "Nombre": "Base de Datos"
+            }
+        ]
+    }
+]
